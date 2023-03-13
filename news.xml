@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns="http://purl.org/rss/1.0/">
+
+
+
+<channel rdf:about="http://www.fsf.org/news/aggregator/RSS">
+  <title>FSF News</title>
+  <link>http://www.fsf.org/news/aggregator</link>
+  <description></description>
+  <image rdf:resource="http://www.fsf.org/logo.png"/>
+
+  <items>
+    <rdf:Seq>
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/right-to-repair-advocate-elizabeth-chamberlain-to-keynote-fsfs-libreplanet"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-board-adopts-updated-by-laws-to-protect-copyleft"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-now-accepting-board-nominations-from-associate-members"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/software-freedom-in-education-advocate-erin-rose-glass-to-keynote-fsfs-libreplanet"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-job-opportunity-operations-assistant-2"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-job-opportunity-deputy-director"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/worldwide-community-of-activists-emphasize-the-freedom-to-share-digital-media-for-international-day-against-drm"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-voting-members-release-and-sign-code-of-ethics"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-board-shares-next-steps-in-board-nomination-process"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-job-opportunity-licensing-and-compliance-manager"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/free-software-awards-winners-announced-securepairs-protesilaos-stavrou-paul-eggert"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/contract-opportunity-bookkeeper"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/fsf-job-opportunity-program-manager-2022"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/free-software-foundation-announces-new-executive-director-zoe-kooyman"/>
+      
+      
+        <rdf:li rdf:resource="http://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot"/>
+      
+    </rdf:Seq>
+  </items>
+
+</channel>
+
+
+  <item rdf:about="http://www.fsf.org/news/right-to-repair-advocate-elizabeth-chamberlain-to-keynote-fsfs-libreplanet">
+    <title>Right to repair advocate Elizabeth Chamberlain to keynote FSF's LibrePlanet</title>
+    <link>http://www.fsf.org/news/right-to-repair-advocate-elizabeth-chamberlain-to-keynote-fsfs-libreplanet</link>
+    <description>BOSTON, Massachusetts, USA -- March 2, 2023 -- The Free Software
+Foundation (FSF) today announced the director of sustainability at
+iFixit, Elizabeth Chamberlain, as its closing keynote for LibrePlanet
+2023, the fifteenth edition of the FSF's conference on ethical
+technology and user freedom. The annual technology and social justice
+conference will be held March 18 and 19, 2023 at the Boston Convention
+and Exhibition Center as well as online.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>featured</dc:subject>
+    
+    <dc:date>2023-03-02T17:14:28Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-board-adopts-updated-by-laws-to-protect-copyleft">
+    <title>FSF board adopts updated by-laws to protect copyleft</title>
+    <link>http://www.fsf.org/news/fsf-board-adopts-updated-by-laws-to-protect-copyleft</link>
+    <description>BOSTON, Massachusetts, USA -- Tuesday, January 24, 2023 -- The
+board of the Free Software Foundation (FSF) today announced it
+has adopted updated bylaws for the nonprofit effective Feb. 1,
+2023.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2023-01-24T20:45:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-now-accepting-board-nominations-from-associate-members">
+    <title>FSF now accepting board nominations from associate members</title>
+    <link>http://www.fsf.org/news/fsf-now-accepting-board-nominations-from-associate-members</link>
+    <description>BOSTON, Massachusetts, USA -- Thursday, January 19, 2023 --
+Associate members of the Free Software Foundation (FSF) now have the
+chance to nominate and evaluate candidates to serve on the board of
+directors for the first time since the nonprofit was founded
+thirty-seven years ago.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2023-01-19T22:55:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/software-freedom-in-education-advocate-erin-rose-glass-to-keynote-fsfs-libreplanet">
+    <title>Software freedom in education advocate Erin Rose Glass to keynote FSF's LibrePlanet</title>
+    <link>http://www.fsf.org/news/software-freedom-in-education-advocate-erin-rose-glass-to-keynote-fsfs-libreplanet</link>
+    <description>BOSTON, Massachusetts, USA -- Thursday, January 12, 2023 -- The
+Free Software Foundation (FSF) today announced Erin Rose Glass as
+its first keynote speaker for LibrePlanet 2023, the fifteenth
+edition of the Free Software Foundation's conference on ethical
+technology and user freedom. The annual technology and social justice
+conference will be held March 18 and 19, 2023, online and in the
+Boston area, with the theme "Charting the Course."</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2023-01-12T20:40:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-job-opportunity-operations-assistant-2">
+    <title>FSF job opportunity: Operations assistant</title>
+    <link>http://www.fsf.org/news/fsf-job-opportunity-operations-assistant-2</link>
+    <description>The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity with a worldwide mission to protect and promote computer-user freedom, seeks a motivated and organized Boston-based individual to be our full-time operations assistant.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-12-23T21:42:44Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-job-opportunity-deputy-director">
+    <title>FSF job opportunity: Deputy director</title>
+    <link>http://www.fsf.org/news/fsf-job-opportunity-deputy-director</link>
+    <description>The Free Software Foundation (FSF), a Massachusetts 501(c)(3)
+charity with a worldwide mission to protect computer user freedom,
+seeks a motivated and talented Boston-based individual to be our
+full-time deputy director.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-12-20T13:45:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/worldwide-community-of-activists-emphasize-the-freedom-to-share-digital-media-for-international-day-against-drm">
+    <title>Worldwide community of activists emphasize the freedom to share digital media for International Day Against DRM</title>
+    <link>http://www.fsf.org/news/worldwide-community-of-activists-emphasize-the-freedom-to-share-digital-media-for-international-day-against-drm</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-12-16T21:18:56Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-voting-members-release-and-sign-code-of-ethics">
+    <title>FSF voting members release and sign Code of Ethics</title>
+    <link>http://www.fsf.org/news/fsf-voting-members-release-and-sign-code-of-ethics</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-07-27T21:00:24Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-board-shares-next-steps-in-board-nomination-process">
+    <title>FSF board shares next steps in board nomination process</title>
+    <link>http://www.fsf.org/news/fsf-board-shares-next-steps-in-board-nomination-process</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-05-10T20:55:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-job-opportunity-licensing-and-compliance-manager">
+    <title>FSF job opportunity: Licensing and compliance manager</title>
+    <link>http://www.fsf.org/news/fsf-job-opportunity-licensing-and-compliance-manager</link>
+    <description>The Free Software Foundation (FSF), a Massachusetts 501(c)(3)
+charity with a worldwide mission to protect computer user freedom,
+seeks a motivated and talented individual to be our
+full-time licensing and compliance manager.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-04-27T19:10:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/free-software-awards-winners-announced-securepairs-protesilaos-stavrou-paul-eggert">
+    <title>Free Software Awards winners announced: SecuRepairs, Protesilaos Stavrou, Paul Eggert</title>
+    <link>http://www.fsf.org/news/free-software-awards-winners-announced-securepairs-protesilaos-stavrou-paul-eggert</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    
+      <dc:subject>Advancement of Free Software</dc:subject>
+    
+    
+      <dc:subject>Project of Social Benefit</dc:subject>
+    
+    
+      <dc:subject>award</dc:subject>
+    
+    
+      <dc:subject>New Contributor</dc:subject>
+    
+    <dc:date>2022-03-19T22:50:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/contract-opportunity-bookkeeper">
+    <title>Contract opportunity: Bookkeeper</title>
+    <link>http://www.fsf.org/news/contract-opportunity-bookkeeper</link>
+    <description>The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity with a worldwide mission to protect computer user freedom, seeks a motivated and talented Boston-based individual to provide bookkeeping and financial operations support. This is a temporary, part-time contract opportunity with potential for additional hours and/or extension.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-03-11T23:05:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/fsf-job-opportunity-program-manager-2022">
+    <title>FSF job opportunity: program manager</title>
+    <link>http://www.fsf.org/news/fsf-job-opportunity-program-manager-2022</link>
+    <description>This position has been filled.</description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-03-08T21:55:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/free-software-foundation-announces-new-executive-director-zoe-kooyman">
+    <title>Free Software Foundation announces new executive director, Zoë Kooyman</title>
+    <link>http://www.fsf.org/news/free-software-foundation-announces-new-executive-director-zoe-kooyman</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-03-01T15:05:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+  <item rdf:about="http://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot">
+    <title>Publication of the FSF-funded white papers on questions around Copilot</title>
+    <link>http://www.fsf.org/news/publication-of-the-fsf-funded-white-papers-on-questions-around-copilot</link>
+    <description></description>
+    
+    <dc:publisher>No publisher</dc:publisher>
+    <dc:creator></dc:creator>
+    <dc:rights></dc:rights>
+    <dc:date>2022-02-25T01:30:00Z</dc:date>
+    <dc:type>News Item</dc:type>
+  </item>
+
+
+
+</rdf:RDF>
